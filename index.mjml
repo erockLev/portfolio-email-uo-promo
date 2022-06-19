@@ -1,0 +1,253 @@
+<mjml version="3.3.3">
+<mj-head>
+    <mj-breakpoint width="320px" />
+    <mj-style>
+        @media (max-width: 480px) {
+
+            .link-grid {
+                font-size: 11px;
+            }
+
+            .store1-container {
+                padding-left: 0 !important;
+            }
+
+            .store2-container {
+                padding-right: 0 !important;
+            }
+
+            .store1 {
+                padding-left: 5px !important;
+            }
+
+            .store2 {
+                padding-right: 5px !important;
+            }
+
+            .display {
+                display: none;
+            }
+        }
+    </mj-style>
+
+</mj-head>
+<mj-body>
+
+<mj-section padding="0">
+    <mj-column width="100%">
+        <mj-image src="https://i.postimg.cc/65mhMZj5/urban1.png" alt="urban outfitters" href="#" padding="0"/>
+    </mj-column>    
+</mj-section>
+
+<mj-section padding="0">
+    <mj-column width="100%">
+        <mj-image src="https://i.postimg.cc/d0CvY1V2/promo1.jpg" alt="urban outfitters" href="#" padding="0"/>
+    </mj-column>    
+</mj-section>
+
+<mj-section padding="0">
+    <mj-column width="100%">
+        <mj-image src="https://i.postimg.cc/PrqjqKqr/promo2.jpg" alt="urban outfitters" href="#" padding="0"/>
+    </mj-column>    
+</mj-section>
+
+<mj-section padding="0">
+    <mj-column width="100%">
+        <mj-image src="https://i.postimg.cc/mgvf8syt/promo3.jpg" alt="urban outfitters" href="#" padding="0"/>
+    </mj-column>    
+</mj-section>
+
+<mj-section padding="0">
+    <mj-column width="100%">
+        <mj-image src="https://i.postimg.cc/T1YZpYfH/promo4.jpg" alt="urban outfitters" href="#" padding="0"/>
+    </mj-column>    
+</mj-section>
+
+<!-- <mj-section>
+    <mj-column width="100%">
+        <mj-image src="img/urban13.jpeg" alt="urban outfitters" href="#"/>
+    </mj-column>    
+</mj-section> -->
+
+<mj-section padding="0">
+
+<mj-group width="100%">
+    
+    <mj-column width="100%">
+        <mj-image src="https://i.postimg.cc/5NyhJ0PX/promo5.jpg" alt="urban outfitters" href="#" padding="0"/>
+    </mj-column>   
+    <mj-column width="50%" vertical-align="top">
+        <mj-image src="https://i.postimg.cc/9Qqs4kHV/promo6.jpg" alt="urban outfitters" href="#" width="320px" height="101px" padding="0"/>
+    </mj-column>   
+    <mj-column width="50%">
+        <mj-image src="https://i.postimg.cc/rpX359q4/promo7.jpg" alt="urban outfitters" href="#" width="320px" height="101px" padding="0"/>
+    </mj-column> 
+
+</mj-group>
+
+</mj-section>
+
+<!-- Footer -->
+
+<mj-wrapper padding="0">
+    
+<mj-section padding="0 6px" background-color="#F5F5F5" border-top="50px solid #F5F5F5">
+
+<mj-group width="100%">
+    
+    <mj-column width="33.33%" border-bottom="1px solid #DDDDDD" border-right="1px solid #DDDDDD" padding="25px 0">
+        <mj-text align="center" font-size="12px" font-weight="bold" font-family="Helvetica" padding="10px 0">
+            <a href="#" style="text-decoration: none; color: #222222;" class="link-grid">Shop UO</a>
+        </mj-text>
+    </mj-column>
+    <mj-column width="33.33%" border-bottom="1px solid #DDDDDD" border-right="1px solid #DDDDDD" padding="25px 0">
+        <mj-text align="center" font-size="12px" font-weight="bold" font-family="Helvetica" padding="10px 0">
+             <a href="#" style="text-decoration: none; color: #222222;" class="link-grid">Help + Info</a>
+        </mj-text>
+    </mj-column>
+    <mj-column width="33.33%" border-bottom="1px solid #DDDDDD" padding="25px 0">
+        <mj-text align="center" font-size="12px" font-weight="bold" font-family="Helvetica" padding="10px 0">
+             <a href="#" style="text-decoration: none; color: #222222;" class="link-grid">Find a Store</a>
+        </mj-text>
+    </mj-column>
+
+</mj-group>
+
+<mj-group width="100%">
+    
+    <mj-column width="33.33%" border-right="1px solid #DDDDDD" padding="25px 0">
+        <mj-text align="center" font-size="12px" font-weight="bold" font-family="Helvetica" padding="10px 0">
+            <a href="#" style="text-decoration: none; color: #222222;" class="link-grid">Contact Us</a>
+        </mj-text>
+    </mj-column>
+    <mj-column width="33.33%"  border-right="1px solid #DDDDDD" padding="25px 0">
+        <mj-text align="center" font-size="12px" font-weight="bold" font-family="Helvetica" padding="10px 0">
+             <a href="#" style="text-decoration: none; color: #222222;" class="link-grid">UO Rewards</a>
+        </mj-text>
+    </mj-column>
+    <mj-column width="33.33%"  padding="25px 0">
+        <mj-text align="center" font-size="12px" font-weight="bold" font-family="Helvetica" padding="10px 0">
+            <a href="#" style="text-decoration: none; color: #222222;" class="link-grid">UO Community</a>
+        </mj-text>
+    </mj-column>
+
+</mj-group>
+
+</mj-section>
+</mj-wrapper>
+
+<mj-section padding="0 40px" background-color="#F5F5F5" border-top="30px solid #F5F5F5">
+
+<mj-group width="100%">
+    
+    <mj-column width="14.285%">
+        <mj-image src="https://i.postimg.cc/tCc47RTM/urban-social1.png" alt="instagram" width="50px" height="50px" href="#" padding="0"/>
+    </mj-column>
+     <mj-column width="14.285%">
+        <mj-image src="https://i.postimg.cc/8c0NFw16/urban-social2.png" alt="facebook" width="50px" height="50px" href="#" padding="0"/>
+    </mj-column>
+     <mj-column width="14.285%">
+        <mj-image src="https://i.postimg.cc/Sx8ksWHn/urban-social3.png" alt="twitter" width="50px" height="50px" href="#" padding="0"/>
+    </mj-column>
+     <mj-column width="14.285%">
+        <mj-image src="https://i.postimg.cc/k5m9t2df/urban-social4.png" alt="pinterest" width="50px" height="50px" href="#" padding="0"/>
+    </mj-column>
+     <mj-column width="14.285%">
+        <mj-image src="https://i.postimg.cc/0N0vG9kx/urban-social5.png" alt="youtube" width="50px" height="50px" href="#" padding="0"/>
+    </mj-column>
+     <mj-column width="14.285%">
+        <mj-image src="https://i.postimg.cc/cHDNjTtb/urban-social6.png" alt="tiktok" width="50px" height="50px" href="#" padding="0"/>
+    </mj-column>
+     <mj-column width="14.285%">
+        <mj-image src="https://i.postimg.cc/x8cSSHKT/urban-social7.png" alt="spotify" width="50px" height="50px" href="#" padding="0"/>
+    </mj-column>
+
+</mj-group>
+
+<mj-group width="60%">
+
+<!-- <mj-group width="100%">    
+    <mj-column width="50%" padding-top="35px"  css-class="store1-container">
+        <mj-image src="https://i.postimg.cc/mZHsV328/urban-store1.png" css-class="store1" alt="apple store" width="120px" height="38px" href="#" padding="0 0 0 100px" align="center"/>
+    </mj-column>
+    <mj-column width="50%" padding-top="35px" css-class="store2-container">
+        <mj-image src="https://i.postimg.cc/pXMtS9mx/urban-store2.png" css-class="store2" alt="google store" width="120px" height="38px" href="#" padding="0 100px 0 0" align="center"/>
+    </mj-column> -->
+
+    <mj-column width="50%" padding-top="35px"  css-class="store1-container">
+        <mj-image src="https://i.postimg.cc/mZHsV328/urban-store1.png" css-class="store1" alt="apple store" width="120px" height="38px" href="#" padding="0 0 0 0" align="center"/>
+    </mj-column>
+    <mj-column width="50%" padding-top="35px" css-class="store2-container">
+        <mj-image src="https://i.postimg.cc/pXMtS9mx/urban-store2.png" css-class="store2" alt="google store" width="120px" height="38px" href="#" padding="0 0 0 0" align="center"/>
+    </mj-column>
+
+</mj-group>
+
+    <mj-column width="100%" padding-top="35px">
+        <mj-text color="rgb(92, 92, 95)" font-size="11px" font-family="helvetica" align="center">
+            You are subscribed as <span><a style="color: rgb(92, 92, 95) !important; text-decoration: none !important;">jjones@gmail.com</a></span>
+        </mj-text>
+    </mj-column>
+
+<mj-group width="100%">
+    
+    <mj-column width="50%" padding-top="15px">
+        <mj-text color="rgb(92, 92, 95)" font-size="11px" font-family="helvetica" align="right" padding="0 20px 0 0">
+            <a href="#" alt="unsubscribe" style="color: rgb(92, 92, 95);">
+            Unsubscribe
+            </a>
+        </mj-text>
+    </mj-column>
+     <mj-column width="50%" padding-top="15px">
+        <mj-text color="rgb(92, 92, 95)" font-size="11px" font-family="helvetica" align="left" padding="0 0 0 20px">
+            <a href="#" alt="privacy policy" style="color: rgb(92, 92, 95);">
+            Privacy Policy
+            </a>
+        </mj-text>
+    </mj-column>
+
+</mj-group>
+
+     <mj-column width="100%" padding="15px 0 0">
+        <mj-text color="rgb(92, 92, 95)" font-size="11px" font-family="helvetica" align="center" line-height="17px" padding="0 20px">
+            Free Standard shipping over $50 apply to orders shipped to the US only. Taxes and Gift Cards do not count towards the Free Shipping total. Please note: Some oversize items may require an additional shipping charge. Free returns and exchanges are only available for orders shipped within the US.
+        </mj-text>
+    </mj-column>
+
+    <mj-column width="100%" padding="20px 0">
+        <mj-text color="rgb(92, 92, 95)" font-size="11px" font-family="helvetica" align="center" padding="0">
+            <a href="#" alt="privacy policy" style="color: rgb(92, 92, 95);">
+            View in a browser
+            </a>
+        </mj-text>
+    </mj-column>
+
+    <mj-column width="100%" padding="0">
+        <mj-text color="rgb(92, 92, 95)" font-size="11px" font-family="helvetica" align="center" line-height="17px" padding="0">
+            UrbanOutfitters.com
+            <br>
+            4010 Rose Lane
+            <br>
+            Augusta, GA 30907
+        </mj-text>
+    </mj-column>
+
+     <mj-column width="100%" padding="20px 0">
+        <mj-text color="rgb(92, 92, 95)" font-size="11px" font-family="helvetica" align="center" padding="0">
+            © 2022 UrbanOutfitters.com. All Rights Reserved.
+        </mj-text>
+    </mj-column>
+
+</mj-section>
+
+<!-- <mj-section padding="0" background-color="#F5F5F5" border-top="50px solid #F5F5F5">
+    <mj-column width="50%">
+        <mj-image src="img/urban-store1.png" alt="apple store" width="120px" height="38px" href="#" padding="0" align="right"/>
+    </mj-column>
+    <mj-column width="50%">
+        <mj-image src="img/urban-store2.png" alt="google store" width="120px" height="38px" href="#" padding="0" align="left"/>
+    </mj-column>
+</mj-section> -->
+
+</mj-body>
+</mjml>
